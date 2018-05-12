@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/William_Carlos_Williams
 description: The Tempers is a collection of William Carlos Williams' earlier poems.
   This copy was signed by Williams in 1916 for Helen Hayt.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31878#The-Tempers
 gutenberg_issued: '2010-04-04'
 gutenberg_type: Text
 identifiers:
